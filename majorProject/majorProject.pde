@@ -1,6 +1,4 @@
 // JIAYI CHEN
-// u5619768
-// display name: icc
 // The basic structure of these classes are inspired from Ben Swift, the lecturer of comp1720, ANU
 // The class DialogBox is referenced from Ben Swift, the lecturer of comp1720, ANU
 
