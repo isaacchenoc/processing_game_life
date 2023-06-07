@@ -3,7 +3,11 @@ This is a simple game developed using processing. In this game, you are trying t
 
 The materials in this game (images and sounds) are all free online resources (please contact the author if there is any forms of infringement). 
 
-To run this game, just install processing and run majorProject.pde (may need to install minim in processing)
+# how to run
+- install processing
+- import minim library in processing
+- run majorProject.pde
+
 
 ![title](https://i.imgur.com/In0v8dy.png)
 ![screenshot](https://i.imgur.com/bdVsxAT.png)
